@@ -1,4 +1,4 @@
-# Prueba_It
+# Prueba_It Ing. Cristian Berrio
 ##Caso Proceso API Spaceflight
 
 Este proyecto abarca el codigo requerido para el sistema de analisis que procesara artículos de noticias,
