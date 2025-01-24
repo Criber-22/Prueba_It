@@ -38,4 +38,4 @@ Al mismo tiempo se encarga de el envio de notificaciones y alertas a usuarios pr
 La prueba unitaria de procesamiento de informacion proveniente de la API se encuentra en el archivo:
 ```test_extractor.py```
 
-Gracias por su atencion!!!
+¡¡¡Gracias por su atencion!!!
